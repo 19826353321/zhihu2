@@ -1,0 +1,3 @@
+export const CHANGE_IDEA_LIST = 'CHANGE_IDEA_LIST'
+
+

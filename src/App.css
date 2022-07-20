@@ -1,0 +1,27 @@
+.App {
+  font-size: 0.7rem;
+  padding-bottom: 2.5rem;
+  color: #121212;
+  width: 100%;
+  height: 100%;
+	/* overflow-y: overlay; */
+
+
+}
+
+.App a {
+  color: #333;
+  font-size: 0.7rem;
+
+}
+
+.overflow-ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
